@@ -1,6 +1,6 @@
-# Jupyter Notebook Files Overview
+# Recommendation Systems Exploration
 
-This repository contains three Jupyter Notebook files focusing on different recommendation techniques:
+This project contains three Jupyter Notebook files focusing on different recommendation techniques: **Collaborative**, **Content-Based**, and **Popularity-Based** Filtering
 
 ## 1. collaborative_based_filtering.ipynb
 
