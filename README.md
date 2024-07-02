@@ -1,4 +1,4 @@
-# Recommendation Systems Exploration
+# Recommendation Systems Explored
 
 This project contains three Jupyter Notebook files focusing on different recommendation techniques: **Collaborative**, **Content-Based**, and **Popularity-Based** Filtering
 
@@ -39,13 +39,17 @@ This notebook demonstrates popularity-based filtering for recommendation systems
 Each notebook provides detailed explanations and code implementation for its respective recommendation technique.
 
 ## Features:
-
 - Each notebook provides detailed explanations and code implementation for its respective recommendation technique.
 - Utilizes popular libraries such as Surprise for collaborative filtering and scikit-learn for content-based filtering.
 - Demonstrates different approaches to recommendation systems, including collaborative, content-based, and popularity-based methods.
 
-## Usage:
+## Technologies Used
+- **JupyterLab**: An interactive development environment for notebooks, code, and data.
+- **pandas**: A data manipulation and analysis library.
+- **scikit-learn**: A machine learning library for predictive data analysis.
+- **scikit-surprise**: A library for building and analyzing recommender systems.
 
+## Usage:
 To use these notebooks, follow these steps:
 
 1. Clone or download this repository to your local machine.
@@ -72,20 +76,17 @@ To use these notebooks, follow these steps:
 6. Open the desired notebook from the Jupyter Notebook interface and follow the instructions within each notebook to execute the code and explore the recommendation techniques.
 
 ## Contributing
-
 Contributions are welcome! Here are some ways you can contribute to the project:
 - Report bugs and issues
 - Suggest new features or improvements
 - Submit pull requests with bug fixes or enhancements
 
 ## Author
-
 - Emad &nbsp; E>
   
   [<img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github" width="150">](https://github.com/emads22)
 
 ## License
-
 This project is licensed under the **MIT License**, which grants permission for free use, modification, distribution, and sublicense of the code, provided that the copyright notice (attributed to [emads22](https://github.com/emads22)) and permission notice are included in all copies or substantial portions of the software. This license is permissive and allows users to utilize the code for both commercial and non-commercial purposes.
 
 Please see the [LICENSE](LICENSE) file for more details.
