@@ -48,6 +48,7 @@ Each notebook provides detailed explanations and code implementation for its res
 - **pandas**: A data manipulation and analysis library.
 - **scikit-learn**: A machine learning library for predictive data analysis.
 - **scikit-surprise**: A library for building and analyzing recommender systems.
+- **conda**: An open-source package and environment management system.
 
 ## Usage:
 To use these notebooks, follow these steps:
