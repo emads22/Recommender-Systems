@@ -1,5 +1,7 @@
 # Recommendation Systems Explored
 
+![recommendation_system_logo](./assets/images/recommendation_system_logo.png)
+
 This project contains three Jupyter Notebook files focusing on different recommendation techniques: **Collaborative**, **Content-Based**, and **Popularity-Based** Filtering
 
 ## 1. collaborative_based_filtering.ipynb
