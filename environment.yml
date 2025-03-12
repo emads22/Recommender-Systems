@@ -1,4 +1,4 @@
-name: recommendation_systems_env
+name: recommender_systems_env
 channels:
   - conda-forge
   - defaults

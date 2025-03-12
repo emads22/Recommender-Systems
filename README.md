@@ -1,6 +1,6 @@
-# Recommendation Systems Explored
+# Recommender Systems
 
-![recommendation_system_logo](./assets/images/recommendation_system_logo.png)
+![recommender_systems_logo](./assets/images/recommender_systems_logo.png)
 
 This project contains three Jupyter Notebook files focusing on different recommendation techniques: **Collaborative**, **Content-Based**, and **Popularity-Based** Filtering
 
@@ -63,11 +63,11 @@ To use these notebooks, follow these steps:
     conda env create -f environment.yml
     ```
 
-   This will create a new Conda environment named `recommendation_systems_env` with all the required packages installed.
+   This will create a new Conda environment named `recommender_systems_env` with all the required packages installed.
 4. Activate the Conda environment:
 
     ```bash
-    conda activate recommendation_systems_env
+    conda activate recommender_systems_env
     ```
 
 5. Launch Jupyter Lab:
